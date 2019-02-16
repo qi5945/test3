@@ -62,6 +62,8 @@ public class CourseDetailActivity extends BaseActivity implements View.OnClickLi
         initData();
         initView();
         requestDeatil();
+
+
     }
 
     @Override
