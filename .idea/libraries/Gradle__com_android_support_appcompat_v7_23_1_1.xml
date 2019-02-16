@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:appcompat-v7-23.1.1">
+    <ANNOTATIONS>
+      <root url="jar://E:/develop/gradle/gradle-4.6-all/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/ad0a3ff06dceac0dafe85758daf27abb/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://E:/develop/gradle/gradle-4.6-all/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/ad0a3ff06dceac0dafe85758daf27abb/jars/classes.jar!/" />
+      <root url="file://E:/develop/gradle/gradle-4.6-all/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/ad0a3ff06dceac0dafe85758daf27abb/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/develop/androidsdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/develop/androidsdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design-23.1.1">
+    <ANNOTATIONS>
+      <root url="jar://E:/develop/gradle/gradle-4.6-all/caches/transforms-1/files-1.1/design-23.1.1.aar/2110819922b01196398d458987076aa5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://E:/develop/gradle/gradle-4.6-all/caches/transforms-1/files-1.1/design-23.1.1.aar/2110819922b01196398d458987076aa5/jars/classes.jar!/" />
+      <root url="file://E:/develop/gradle/gradle-4.6-all/caches/transforms-1/files-1.1/design-23.1.1.aar/2110819922b01196398d458987076aa5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/develop/androidsdk/extras/android/m2repository/com/android/support/design/23.1.1/design-23.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/develop/androidsdk/extras/android/m2repository/com/android/support/design/23.1.1/design-23.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
